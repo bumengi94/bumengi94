@@ -1,5 +1,5 @@
 # Hi 👋, I'm Buğra Mengi
-<img src="https://media.giphy.com/media/FGbEffWs9la1O/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/FGbEffWs9la1O/giphy.gif" align="right" width="270">
 
 [![Twitter: bumengi94](https://img.shields.io/twitter/follow/bumengi94?style=social)](https://twitter.com/bumengi94)
 [![Linkedin: bumengi94](https://img.shields.io/badge/-bumengi94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bumengi94/)](https://www.linkedin.com/in/bumengi94/)
