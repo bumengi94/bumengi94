@@ -11,13 +11,11 @@
 
 ### About me
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumengi94&theme=blue-green" align="right" width="270">
+
 ```javascript
 const bumengi94 = {
   languages: [Javascript, NodeJS, VueJS, ReactJS, GoLang, Swift, Rubby, Rust, PHP, Phyton, HTML, CSS],
   coding: [Docker, Kubernetes, AWS, DevOps, CI/CD, MicroServices],
 };
 ```
-
-![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=bumengi94&theme=blue-green)
-
----
