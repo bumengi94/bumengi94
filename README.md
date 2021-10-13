@@ -13,10 +13,11 @@
 
 ```javascript
 const bumengi94 = {
-  code: [Javascript, NodeJS, VueJS, ReactJS, GoLang, HTML, CSS],
-  tools: [Docker, Kubernetes, AWS],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  languages: [Javascript, NodeJS, VueJS, ReactJS, GoLang, Swift, Rubby, Rust, PHP, Phyton, HTML, CSS],
+  coding: [Docker, Kubernetes, AWS, DevOps, CI/CD, MicroServices],
 };
 ```
+
+![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=bumengi94&theme=blue-green)
 
 ---
