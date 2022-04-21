@@ -1,7 +1,7 @@
 import React, { FC } from "react";
 import moment from "moment";
 
-const Header: FC = () => {
+const Menu: FC = () => {
 	return (
 		<header>
 			<img src="/logo.svg" alt="logo" />
@@ -17,4 +17,4 @@ const Header: FC = () => {
 	);
 };
 
-export default Header;
+export default Menu;

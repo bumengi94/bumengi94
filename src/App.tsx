@@ -1,12 +1,14 @@
 import React, { Fragment } from "react";
 import { FC } from "react";
-import { Background, Header } from "./components";
+import { Background, Dock, Menu, Window } from "./components";
 
 const App: FC = () => {
 	return (
 		<Fragment>
 			<Background />
-			<Header />
+			<Menu />
+			<Window />
+			<Dock />
 		</Fragment>
 	);
 };
