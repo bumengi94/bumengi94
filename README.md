@@ -12,7 +12,7 @@ field. Of course, I am ready to work remotely.
 -   🖥️ See my portfolio at [bugramengi.com](http://bugramengi.com)
 -   ✉️ You can contact me at [info@bugramengi.com](mailto:info@bugramengi.com)
 
-<a href="https://www.twitter.com/bumengi94" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bumengi94?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.github.com/bumengi94" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bumengi94?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> 
+<a href="https://www.twitter.com/bumengi94" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bumengi94?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.github.com/bumengi94" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bumengi94?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
 ### Skills
 
