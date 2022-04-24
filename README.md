@@ -17,32 +17,32 @@ field. Of course, I am ready to work remotely.
 ### Skills
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/c-sharp.svg" width="36" height="36" alt="C#" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/docker.svg" width="36" height="36" alt="Docker" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/flutter.svg" width="36" height="36" alt="Flutter" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/git.svg" width="36" height="36" alt="GitHub" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/golang.svg" width="36" height="36" alt="Go Lang" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/grpc.svg" width="36" height="36" alt="gRpc" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/java.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/javascript.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/jenkins.svg" width="36" height="36" alt="Jenkins" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/kafka.svg" width="36" height="36" alt="Kafka" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/docker.svg" width="36" height="36" alt="Docker" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/kubernetes.svg" width="36" height="36" alt="Kubernetes" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/mongo.svg" width="36" height="36" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/nginx.svg" width="36" height="36" alt="Nginx" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/nodejs.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/php.svg" width="36" height="36" alt="PHP" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/python.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/rabbitmq.svg" width="36" height="36" alt="RabbitMQ" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/javascript.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/typescript.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/react.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/redis.svg" width="36" height="36" alt="Redis" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/ruby.svg" width="36" height="36" alt="Ruby" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/rust.svg" width="36" height="36" alt="Rust" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/vue.svg" width="36" height="36" alt="Vue" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/sass.svg" width="36" height="36" alt="SASS" />
 <img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/swift.svg" width="36" height="36" alt="Swift" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/typescript.svg" width="36" height="36" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/vue.svg" width="36" height="36" alt="Vue" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/flutter.svg" width="36" height="36" alt="Flutter" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/ruby.svg" width="36" height="36" alt="Ruby" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/python.svg" width="36" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/c-sharp.svg" width="36" height="36" alt="C#" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/php.svg" width="36" height="36" alt="PHP" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/golang.svg" width="36" height="36" alt="Go Lang" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/java.svg" width="36" height="36" alt="Java" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/rust.svg" width="36" height="36" alt="Rust" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/nginx.svg" width="36" height="36" alt="Nginx" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/kafka.svg" width="36" height="36" alt="Kafka" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/redis.svg" width="36" height="36" alt="Redis" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/grpc.svg" width="36" height="36" alt="gRpc" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/rabbitmq.svg" width="36" height="36" alt="RabbitMQ" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/mongo.svg" width="36" height="36" alt="MongoDB" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/bumengi94/bumengi94/main/public/apps/jenkins.svg" width="36" height="36" alt="Jenkins" />
 </p>
 
 ### Socials
