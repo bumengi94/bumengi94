@@ -61,4 +61,4 @@ field. Of course, I am ready to work remotely.
 
 ### Support Me
 
-<a target="_blank" href="https://www.buymeacoffee.com/bumengi94"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a target="_blank" rel="noreferrer" href="https://www.buymeacoffee.com/bumengi94"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
