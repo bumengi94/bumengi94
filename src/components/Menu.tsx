@@ -6,9 +6,9 @@ const Menu: FC = () => {
 		<header>
 			<img src="/logo.svg" alt="logo" />
 			<nav>
-				<a href="/">About</a>
-				<a href="/">Blog</a>
-				<a href="/">Contact</a>
+				<button>About</button>
+				<button>Blog</button>
+				<button>Contact</button>
 			</nav>
 			<div className="right">
 				<div className="time">{moment().format("LLLL")}</div>
