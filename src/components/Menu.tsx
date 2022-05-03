@@ -5,7 +5,9 @@ import { FaEnvelope, FaGithub, FaInstagram, FaLinkedin, FaPhone, FaTwitter } fro
 const Menu: FC = () => {
 	return (
 		<header>
-			<img src="/logo.svg" alt="logo" />
+			<button>
+				<img src="/logo.svg" alt="logo" />
+			</button>
 			<nav>
 				<button>About</button>
 				<button>Blog</button>

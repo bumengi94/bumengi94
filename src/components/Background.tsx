@@ -24,7 +24,9 @@ const Background: FC = () => {
 				drops[i]++;
 			}
 		}
-		setInterval(draw, 33);
+		const bgDraw = setInterval(draw, 33);
+
+		return () => clearInterval(bgDraw);
 	}, []);
 
 	return <canvas id="canvas" />;
