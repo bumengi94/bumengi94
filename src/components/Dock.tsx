@@ -34,7 +34,7 @@ const Dock: FC = () => {
 
 	const [hover, setHover] = useState(null);
 
-	const getStyle = (index: number): CSSProperties => {
+	const getStyle = (index: number): [CSSProperties, boolean] => {
 		let transform = "";
 		if (hover === index) transform = "scale(2)";
 		if (hover === index - 1) transform = "scale(1.5)";
@@ -49,10 +49,13 @@ const Dock: FC = () => {
 		if (hover === index - 2) margin = "0 1rem";
 		if (hover === index + 2) margin = "0 1rem";
 
-		return {
-			transform,
-			margin,
-		};
+		return [
+			{
+				transform,
+				margin,
+			},
+			hover === index,
+		];
 	};
 
 	return (
@@ -61,7 +64,11 @@ const Dock: FC = () => {
 				{icons.map((icon, index) =>
 					!!icon ? (
 						<button key={index} onMouseOver={() => setHover(index)} onMouseLeave={() => setHover(null)}>
-							<i style={getStyle(index)} className={`devicon-${icon}-plain `} />
+							<span>{icon}</span>
+							<i
+								style={getStyle(index)[0]}
+								className={`devicon-${icon}-plain ${getStyle(index)[1] ? "colored" : ""}`}
+							/>
 						</button>
 					) : (
 						<div style={{ width: "1.5rem" }} />
