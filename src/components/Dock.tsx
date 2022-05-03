@@ -1,11 +1,8 @@
 import React, { CSSProperties, FC, useState } from "react";
-import "devicon/devicon.min.css";
 
 const Dock: FC = () => {
 	const icons = [
-		"github",
 		"docker",
-		"kubernetes",
 		"nodejs",
 		"javascript",
 		"typescript",
@@ -25,13 +22,14 @@ const Dock: FC = () => {
 		"rust",
 		"perl",
 		"dart",
-		"nginx",
 		"mysql",
 		"mongodb",
 		"postgresql",
+		"nginx",
 		"redis",
 		"apachekafka",
 		"jenkins",
+		"kubernetes",
 	];
 
 	const [hover, setHover] = useState(null);
@@ -60,11 +58,15 @@ const Dock: FC = () => {
 	return (
 		<footer>
 			<div className="apps">
-				{icons.map((icon, index) => (
-					<button key={index} onMouseOver={() => setHover(index)} onMouseLeave={() => setHover(null)}>
-						<i style={getStyle(index)} className={`devicon-${icon}-plain `} />
-					</button>
-				))}
+				{icons.map((icon, index) =>
+					!!icon ? (
+						<button key={index} onMouseOver={() => setHover(index)} onMouseLeave={() => setHover(null)}>
+							<i style={getStyle(index)} className={`devicon-${icon}-plain `} />
+						</button>
+					) : (
+						<div style={{ width: "1.5rem" }} />
+					)
+				)}
 			</div>
 		</footer>
 	);
