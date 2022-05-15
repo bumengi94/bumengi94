@@ -1,3 +1,47 @@
 main
-  flex: 1
-  z-index: 1
+	flex: 1
+	z-index: 1
+	display: flex
+	justify-content: center
+	align-items: center
+
+	.window
+		background-color: $light-gray
+		box-shadow: 0 0 64px $black
+		border-radius: .5rem
+		overflow: hidden
+		max-width: 1024px
+
+		.header
+			background-color: $blue
+			height: 2rem
+			display: flex
+			align-items: center
+			padding: 0 1rem
+			cursor: move
+
+			.control
+				height: .875rem
+				width: .875rem
+				border-radius: 50%
+				margin-right: 8px
+
+				&:last-child
+					margin-right: 0
+
+			.maximize
+				background-color: #24C138
+				border-color: #0B9F21
+
+			.minimize
+				background-color: #FEB429
+				border-color: #DB9311
+
+			.close
+				background-color: #FF544D
+				border-color: #DC3A33
+
+		.content
+			color: $black
+			min-height: 200px
+			padding: 1rem

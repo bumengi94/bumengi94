@@ -5,7 +5,8 @@
 	"author": "bugra <bumengi94@gmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"dev": "vite"
+		"dev": "vite",
+		"prod": "vite build"
 	},
 	"dependencies": {
 		"devicon": "^2.15.1",
