@@ -36,8 +36,6 @@ field. Of course, I am ready to work remotely.
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt="php">
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg' alt="ruby">
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' alt="go">
-<img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg' alt="rust">
-<img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg' alt="perl">
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg' alt="dart">
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt="nginx">
 <img width="32px" height="32px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt="mysql">
