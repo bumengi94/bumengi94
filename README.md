@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/FGbEffWs9la1O/giphy.gif" align="right" width="270" alt="shiro">
 
-## Sr. Software Architecture
+## Sr. FullStack Software Developer
 
 I am currently working as a software developer in Turkey. In 2008, I entered the technology industry. I personally
 managed many software projects throughout my career. I also gained experience working with very talented people in my
