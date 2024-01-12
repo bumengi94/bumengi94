@@ -6,7 +6,7 @@ export const App: FC = () => {
 	return (
 		<Suspense fallback={null}>
 			<Background />
-			<div className="front">
+			<div className="front pt-10">
 				<Home />
 				<Resume />
 				<Contact />
