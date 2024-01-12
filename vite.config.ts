@@ -37,11 +37,22 @@ const config = defineConfig({
 				],
 				description: "Bugra Mengi",
 			},
+			injectRegister: "script-defer",
 			devOptions: {
 				enabled: true,
 			},
 		}),
 	],
+	build: {
+		chunkSizeWarningLimit: 1000,
+		rollupOptions: {
+			output: {
+				manualChunks(id) {
+					if (id.includes("node_modules")) return "vendor";
+				},
+			},
+		},
+	},
 });
 
 export default config;
