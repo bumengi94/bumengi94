@@ -4,7 +4,7 @@ export const Home = () => {
 	return (
 		<div className="items-center flex flex-col">
 			<img
-				className="profile-picture mt-5"
+				className="profile-picture mt-20"
 				src="profile.webp"
 				alt="Profile Picture"
 			/>
@@ -19,16 +19,24 @@ export const Home = () => {
 				success at every stage
 			</h2>
 			<div className="flex gap-x-2 mt-5">
-				<a href="" download="bugra_mengi_resume.pdf" className="button">
+				<a
+					href="resume.pdf"
+					download="bugra_mengi_resume.pdf"
+					className="button"
+				>
 					Download CV
 				</a>
-				<a href="" className="button" aria-label="github.com/bumengi94">
+				<a
+					href="https://github.com/bumengi94"
+					className="button"
+					aria-label="github.com/bumengi94"
+				>
 					<i className="devicon-github-original" />
 				</a>
 				<a
-					href=""
+					href="https://linkedin.com/in/bumengi94"
 					className="button"
-					aria-label="linkedin.com/bumengi94"
+					aria-label="linkedin.com/in/bumengi94"
 				>
 					<i className="devicon-linkedin-plain" />
 				</a>
