@@ -21,5 +21,4 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/bumengi94)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Web Site](https://github.com/bumengi94/bumengi94/actions/workflows/deploy.yml/badge.svg)](https://bugramengi.io)
