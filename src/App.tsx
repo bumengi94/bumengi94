@@ -1,16 +1,8 @@
-import "./sass/main.sass";
-import React, { FC, Fragment, Suspense } from "react";
-import { Background, Contact, Home, Resume } from "./components";
+import "./main.sass";
+import React, { FC, Fragment } from "react";
 
-export const App: FC = () => {
-	return (
-		<Suspense fallback={null}>
-			<Background />
-			<div className="front pt-10">
-				<Home />
-				<Resume />
-				<Contact />
-			</div>
-		</Suspense>
-	);
+const App: FC = () => {
+	return <Fragment>Hi</Fragment>;
 };
+
+export default App;
