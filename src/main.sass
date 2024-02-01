@@ -1,10 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap')
 
 @tailwind base
 @tailwind components
 @tailwind utilities
 
-body
-  scroll-behavior: smooth
-  -moz-osx-font-smoothing: grayscale
-  -webkit-font-smoothing: antialiased
+@layer base
+  body
+    @apply scroll-smooth relative text-white
+    font-family: Poppins, sans-serif
+
+    -moz-osx-font-smoothing: grayscale
+    -webkit-font-smoothing: antialiased
+
+  @keyframes square
+    0%
+      top: 100%
+      transform: rotate(0)
+    100%
+      top: -10%
+      transform: rotate(360deg)

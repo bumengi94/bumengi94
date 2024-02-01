@@ -1,7 +1,5 @@
 import React, { FC } from "react";
 
 export const Loading: FC = () => (
-	<div className="flex justify-center items-center h-screen">
-		<div className="spinner-border w-16 h-16 border-t-4 border-blue-500 border-solid rounded-full animate-spin" />
-	</div>
+	<span className="flex items-center justify-center h-screen after:rounded-full after:w-12 after:h-12 after:bg-theme after:block after:animate-ping" />
 );

@@ -1,3 +1,4 @@
+import "./main.sass";
 import React, { lazy, StrictMode, Suspense } from "react";
 import { createRoot } from "react-dom/client";
 import { Loading } from "./components";
