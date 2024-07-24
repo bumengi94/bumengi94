@@ -12,11 +12,10 @@ export const Home = () => {
 				Welcome! I'm Bugra Mengi
 			</h1>
 			<h2 className="text-white text-xl mt-4 max-w-xl text-center font-light">
-				With a rich 16-year journey navigating the dynamic landscape of
-				technology, I have actively led and contributed to various
-				application development projects. From the code's inception to
-				the final deployment, I've been at the forefront, ensuring
-				success at every stage
+				Enthusiastic Senior Software Engineer with a proven track record
+				in leading software development projects. Thriving in
+				challenging environments, currently based in Dubai. Committed to
+				advancing technology and driving innovation.
 			</h2>
 			<div className="flex gap-x-2 mt-5">
 				<a
